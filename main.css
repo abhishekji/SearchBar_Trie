@@ -1,0 +1,16 @@
+#inputText {
+    display: block;
+    width: 300px;
+    height: 30px;
+    margin: 40px;
+}
+
+#inputText:hover {
+    background-color: grey;
+}
+
+#result {
+    background-color: green;
+    color: black;
+    
+}
